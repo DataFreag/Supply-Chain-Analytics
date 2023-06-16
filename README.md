@@ -10,3 +10,7 @@ As of now:
 
 1. The first part involves creating a forecasting model for retail sales. The goal is to capture the trends followed by sales using a dataset.
 2. The second part focuses on capturing the trends related to costs in relation to holidays and important event days. This part of the project is currently being worked on.
+
+
+
+Thank You😊
